@@ -1,0 +1,14 @@
+[
+  {
+    "package": "ABCoptim",
+    "oncran": true
+  },
+  {
+    "package": "googlePublicData",
+    "oncran": true
+  },
+  {
+    "package": "rgexf",
+    "oncran": true
+  }
+]
