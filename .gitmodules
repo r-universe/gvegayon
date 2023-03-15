@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rgexf"]
+	path = rgexf
+	url = https://github.com/gvegayon/rgexf
+	shallow = true
+	registered = true
 [submodule "ABCoptim"]
 	path = ABCoptim
 	url = https://github.com/gvegayon/abcoptim
@@ -11,10 +16,5 @@
 [submodule "googlePublicData"]
 	path = googlePublicData
 	url = https://github.com/gvegayon/googlepublicdata
-	shallow = true
-	registered = true
-[submodule "rgexf"]
-	path = rgexf
-	url = https://github.com/gvegayon/rgexf
 	shallow = true
 	registered = true
