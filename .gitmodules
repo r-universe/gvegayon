@@ -5,6 +5,9 @@
 [submodule "ABCoptim"]
 	path = ABCoptim
 	url = https://github.com/gvegayon/abcoptim
+[submodule "defm"]
+	path = defm
+	url = https://github.com/cran/defm
 [submodule "googlePublicData"]
 	path = googlePublicData
 	url = https://github.com/gvegayon/googlepublicdata
